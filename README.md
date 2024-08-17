@@ -1,2 +1,4 @@
-# csd-380
-DevOps coursework
+# CSD 380 DevOps
+## Contributors
+- Joseph Issa
+- Amanda Riley
